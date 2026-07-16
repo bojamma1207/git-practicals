@@ -1,1 +1,5 @@
 welcome to git session
+Today we are learning to create local repository with the remote repository
+hello hi how are you 
+good to get the answers from your side
+thankyou
