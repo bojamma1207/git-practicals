@@ -1,0 +1,13 @@
+Started by user admin
+Running on master node
+[Pipeline] Start of pipeline
+[Pipeline] stage (Checkout)
+[Pipeline] echo: Checking out code from GitHub...
+[Pipeline] stage (Build)
+[Pipeline] echo: Building application artifacts...
+[Pipeline] stage (Test)
+[Pipeline] echo: Running automated test suites...
+[Pipeline] stage (Deploy to Staging)
+[Pipeline] echo: Deploying application to staging environment...
+[Pipeline] End of pipeline
+SUCCESS: CI/CD Pipeline Completed Successfully!
